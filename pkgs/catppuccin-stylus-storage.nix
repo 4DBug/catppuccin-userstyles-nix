@@ -17,7 +17,7 @@ stdenv.mkDerivation {
   src = fetchFromGitHub {
     owner = "4DBug";
     repo = "catppuccin-userstyles";
-    rev = "714b153c7022c362a37ab8530286a87e4484a828";
+    rev = "f563162295c5272a010e39fe897332cb058ce482";
     hash = "sha256-lftRs+pfcOrqHDtDWX/Vd/CQvDJguCRxlhI/aIkIB/k=";
   };
 
